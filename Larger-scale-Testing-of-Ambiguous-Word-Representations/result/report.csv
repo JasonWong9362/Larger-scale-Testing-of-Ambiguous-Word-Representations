@@ -1,0 +1,6 @@
+,comp,max_level,oov_get_wt,deal_with_prep,tree_filter,tree_direction,sim_metric,clf,e_factor,train_avg,train_std,val_avg,val_std
+0,phaser,10.0,get_one,ignore,no_filter,noun_as_oper,bures,<similarity.threshold_clf object at 0x000002A0AB65FB08>,0.0,59.0,0.1,59.0,0.6
+1,phaser,10.0,get_one,ignore,no_filter,noun_as_oper,bures,<similarity.threshold_clf object at 0x0000029FFFFCE748>,0.5,56.99999999999999,0.2,56.8,0.8
+2,phaser,10.0,get_one,ignore,no_filter,noun_as_oper,bures,<similarity.threshold_clf object at 0x000002A0AC778B88>,1.0,55.900000000000006,0.3,56.00000000000001,1.0
+3,phaser,10.0,get_one,ignore,no_filter,noun_as_oper,bures,<similarity.threshold_clf object at 0x000002A0AC788448>,1.5,55.00000000000001,0.3,54.400000000000006,0.8999999999999999
+4,phaser,10.0,get_one,ignore,no_filter,noun_as_oper,bures,<similarity.threshold_clf object at 0x0000029F97146C88>,2.0,54.6,0.2,54.50000000000001,1.0
